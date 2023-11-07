@@ -19,7 +19,7 @@ ul {
   text-decoration: none;
 }
 
-.accent-header {
+.accent-logo {
   color: #2e2f42;
 }
 
@@ -135,7 +135,7 @@ ul {
 
 .title-item {
   color: #2e2f42;
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
