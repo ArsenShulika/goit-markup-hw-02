@@ -8,6 +8,10 @@ ul {
   list-style-type: none;
 }
 
+button {
+  cursor: pointer;
+}
+
 .link-logo-header {
   font-family: 'Raleway', sans-serif;
   color: #4d5ae5;
@@ -82,7 +86,6 @@ ul {
   color: #fff;
   background: #4d5ae5;
   font-family: 'Roboto', sans-serif;
-  cursor: pointer;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
@@ -104,9 +107,6 @@ ul {
   line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
-}
-
-.benefits-list {
 }
 
 .title {
@@ -155,9 +155,6 @@ ul {
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.32px;
-}
-
-.portfolio-list {
 }
 
 .text-footer {
