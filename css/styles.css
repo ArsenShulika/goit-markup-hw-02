@@ -66,7 +66,6 @@ ul {
 
 .hero-title {
   color: #fff;
-  text-align: center;
   font-family: 'Roboto';
   font-size: 56px;
   font-style: normal;
@@ -76,7 +75,6 @@ ul {
 }
 
 .hero-button {
-  text-align: center;
   color: #fff;
   background: #4d5ae5;
   font-family: 'Roboto';
@@ -94,7 +92,6 @@ ul {
 
 .section-title {
   color: #2e2f42;
-  text-align: center;
   font-family: 'Roboto';
   font-size: 36px;
   font-style: normal;
@@ -104,7 +101,6 @@ ul {
 }
 
 .benefits-list {
-  text-align: center;
 }
 
 .title {
@@ -128,24 +124,11 @@ ul {
 }
 
 .introduction {
-  text-align: center;
   background: #f4f4fd;
-}
-
-.section-title {
-  color: #2e2f42;
-  text-align: center;
-  font-family: 'Roboto';
-  font-size: 36px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 40px;
-  letter-spacing: 0.72px;
 }
 
 .title-item {
   color: #2e2f42;
-  text-align: center;
   font-family: 'Roboto';
   font-size: 20px;
   font-style: normal;
@@ -156,24 +139,12 @@ ul {
 
 .text-item {
   color: #434455;
-  text-align: center;
   font-family: 'Roboto';
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.32px;
-}
-
-.section-title {
-  color: #2e2f42;
-  text-align: center;
-  font-family: 'Roboto';
-  font-size: 36px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 40px;
-  letter-spacing: 0.72px;
 }
 
 .text-footer {
