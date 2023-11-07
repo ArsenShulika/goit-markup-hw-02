@@ -1,5 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
+  color: #434455;
+  background-color: #ffffff;
 }
 
 ul {
@@ -33,7 +35,7 @@ ul {
 }
 
 .nav-link:hover,
-.nav-link :focus {
+.nav-link:focus {
   color: #404bbf;
 }
 
