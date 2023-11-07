@@ -8,8 +8,8 @@ ul {
   list-style-type: none;
 }
 
-.link-logo-header {
-  font-family: 'Raleway';
+.nav .link-logo-header {
+  font-family: 'Raleway', sans-serif;
   color: #4d5ae5;
   font-size: 18px;
   font-weight: 700;
@@ -23,9 +23,9 @@ ul {
   color: #2e2f42;
 }
 
-.nav-link {
+.nav .nav-link {
   color: #2e2f42;
-  font-family: 'Roboto';
+  font-family: 'Roboto' sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -66,6 +66,7 @@ ul {
 
 .hero-title {
   color: #fff;
+  text-align: center;
   font-family: 'Roboto';
   font-size: 56px;
   font-style: normal;
@@ -77,7 +78,7 @@ ul {
 .hero-button {
   color: #fff;
   background: #4d5ae5;
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   cursor: pointer;
   font-size: 16px;
   font-weight: 500;
@@ -93,11 +94,13 @@ ul {
 .section-title {
   color: #2e2f42;
   font-family: 'Roboto';
+  text-align: center;
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
-  line-height: 40px;
+  line-height: 1.11;
   letter-spacing: 0.72px;
+  text-transform: capitalize;
 }
 
 .benefits-list {
@@ -127,6 +130,9 @@ ul {
   background: #f4f4fd;
 }
 
+.item {
+}
+
 .title-item {
   color: #2e2f42;
   font-family: 'Roboto';
@@ -147,6 +153,9 @@ ul {
   letter-spacing: 0.32px;
 }
 
+.portfolio-list {
+}
+
 .text-footer {
   color: #f4f4fd;
   font-family: 'Roboto';
@@ -159,11 +168,11 @@ ul {
 
 .link-logo-footer {
   color: #4d5ae5;
-  font-family: 'Raleway';
+  font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
   text-decoration: none;
