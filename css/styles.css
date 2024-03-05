@@ -32,7 +32,6 @@ button {
 
 .menu-link {
   color: #2e2f42;
-  font-family: 'Roboto' sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -52,7 +51,6 @@ button {
 
 .contact-link {
   color: #434455;
-  font-family: 'Roboto';
   font-style: normal;
   font-size: 16px;
   font-weight: 400;
@@ -72,7 +70,6 @@ button {
 .hero-title {
   color: #fff;
   text-align: center;
-  font-family: 'Roboto';
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
@@ -83,7 +80,6 @@ button {
 .hero-button {
   color: #fff;
   background: #4d5ae5;
-  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
@@ -97,7 +93,6 @@ button {
 
 .section-title {
   color: #2e2f42;
-  font-family: 'Roboto';
   text-align: center;
   font-size: 36px;
   font-style: normal;
@@ -109,7 +104,6 @@ button {
 
 .title {
   color: #2e2f42;
-  font-family: 'Roboto';
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -119,7 +113,6 @@ button {
 
 .text {
   color: #434455;
-  font-family: 'Roboto';
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -137,7 +130,6 @@ button {
 
 .title-item {
   color: #2e2f42;
-  font-family: 'Roboto', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 500;
@@ -147,7 +139,6 @@ button {
 
 .text-item {
   color: #434455;
-  font-family: 'Roboto';
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -157,7 +148,6 @@ button {
 
 .text-footer {
   color: #f4f4fd;
-  font-family: 'Roboto';
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
